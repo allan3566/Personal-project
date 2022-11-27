@@ -1,0 +1,47 @@
+.menu{
+    background-color: rgb(0, 88, 189);
+    height: 7vw;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    margin-top: 0px;
+  }
+  .menu .menu_block{
+    position: absolute;
+    top: 30%;
+  }
+  .menu .menu_block .menu_item{
+    background-color: aqua;
+    display: inline-block;
+    padding: 0.3vw 3vw;
+    margin-left: 1vw;
+    border-radius: 10vw;
+    font-size: 2.5vw;
+    white-space: nowrap;
+  }
+
+  .menu_content {
+    display: none;
+  }
+  .titleitem{
+    display: inline-block;
+  }
+  #Welcome{
+    background-color: rgb(1, 89, 110);
+    color: azure;
+    width: 25vw;
+    height: 8vw;
+    font-size: 3vw;
+    text-align: center;
+    border-radius: 10px;
+  }
+  .title_bar{
+    padding-top: 10vw;
+    border: 5px solid black;
+  }
+
+
+
+
+
+
